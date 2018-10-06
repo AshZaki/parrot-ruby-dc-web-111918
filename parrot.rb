@@ -6,10 +6,3 @@ def parrot(string = "Squawk!")
     "#{string}"
  
 end
-
-
-
-parrot()
-# Expect "Squawk!"
-parrot("Pretty bird!")
-# Expect "Pretty bird!"
