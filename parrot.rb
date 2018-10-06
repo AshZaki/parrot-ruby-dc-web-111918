@@ -9,3 +9,7 @@ end
 
 
 
+parrot()
+# Expect "Squawk!""
+parrot("Pretty bird!")
+# Expect "Pretty bird!"
